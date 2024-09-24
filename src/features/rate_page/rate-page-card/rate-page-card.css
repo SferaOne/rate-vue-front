@@ -1,0 +1,101 @@
+.rate-page-card-conteiner {
+    color: #1d1c1a;
+    border-radius: 0px;
+    width: 95%;
+    margin: auto;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid #e6eae9;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+.rate-page-card-block {
+    display: flex;
+    flex-direction: row;
+    min-height: 12vw;
+    border-radius: 10px;
+}
+.rate-page-card-infoblock {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+.rate-page-card-title {
+    font-size: 16pt;
+    font-weight: bold;
+    border-bottom: 1px solid #d3d3d3;
+}
+.rate-page-card-short-title-sub{
+    font-size: 11pt;
+    font-style: italic;
+    margin-bottom: 1%;
+    width: 100%;
+    color:#6c8693;
+    display: flex;
+    flex-direction: row;
+}
+.rate-page-card-short-title-sub-info{
+    width: 71%;
+    display: flex;
+    flex-direction: row;
+}
+.rate-path-info {
+    width: 100%;
+    min-height: 80px;
+}
+.rate-path-container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+.rate-path-left-conteiner{
+    width: 50%;
+}
+.rate-tranzit-header{
+    font-size: 11pt;
+    margin-top: 0.85%;
+}
+.tomato{
+    color: tomato;
+}
+.text-left{
+    text-align: left;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.rate-card-cost {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.rate-card-cost-container {
+    width: 80%;
+    margin: auto;
+}
+.rate-card-unit {
+    margin-top: 1.61%;
+    font-weight: bold;
+    font-size: 16pt;
+}
+.rate-card-cost-total {
+    font-size: 20pt;
+    font-weight: bold;
+    padding-top: 1.61%;
+    margin-bottom: 1.61%;
+}
+.rate-card-usd-cost-total {
+    font-size: 16pt;
+    font-weight: bold;
+    padding-top: 1.61%;
+    margin-bottom: 1.61%;
+}

@@ -1,0 +1,41 @@
+.mt-lcontainer{
+    margin-top: 0.4%;
+    margin-left: 1%;
+    width: 98%;
+    height: 98%;
+    background-color: #fff;
+    box-shadow: 0vw 0.15625vw 0.05208vw -0.1041666vw rgba(96, 97, 99, 0.2),
+    0vw 0.1041666vw 0.1041666vw 0vw rgba(96, 97, 99, 0.14),
+    0vw 0.05208vw 5px 0vw rgba(96, 97, 99, 0.12);
+    border-radius: 0.208333vw;
+    padding: 2%;
+}
+.mt-left-container{
+    height: 100%;
+    margin-left: 0;
+    width: 50%;
+    float: left;
+    border-right: 0.05208vw solid #008cd0;
+}
+.mt-right-container{
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+.mt-right-top-conteiner{
+    height: 30%;
+}
+.mt-left-top-conteiner{
+    height: 20%;
+}
+.mt-right-bottom-container{
+    float: bottom;
+    padding-left: 25%;
+    padding-top: 5%;
+    padding-right: 25%;
+}
+.mt-logo{
+    margin: auto;
+    text-align: center;
+    width: 15vw;
+}

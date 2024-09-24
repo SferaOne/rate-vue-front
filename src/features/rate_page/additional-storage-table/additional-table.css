@@ -1,0 +1,14 @@
+.additional-items-container {
+    width: 95%;
+    font-size: 11pt;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    border: 1px solid #e6eae9;
+    margin: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.block-header{
+    width: 95%;
+    margin-left: 2.5%;
+}

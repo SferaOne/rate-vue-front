@@ -1,0 +1,15 @@
+.additional-item-row{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    line-height: 40px;
+}
+.additional-item-comment{
+    width: 25%
+}
+.additional-item-price{
+    text-align: right;
+}
+.additional-item-description{
+    width: 55%;
+}

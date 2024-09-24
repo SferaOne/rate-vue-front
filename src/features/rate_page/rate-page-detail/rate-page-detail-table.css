@@ -1,0 +1,24 @@
+.rate-page-detail-service {
+    line-height: 40px;
+}
+.rate-page-detail-table {
+    width: 95%;
+    font-size: 10pt;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    margin: auto;
+}
+.td-right {
+    text-align: right;
+    padding-right: 1%;
+}
+.td-center {
+    text-align: center;
+}
+.rate-page-service-img {
+    width: 50px;
+}
+.block-header{
+    width: 95%;
+    margin-left: 2.5%;
+}

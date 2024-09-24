@@ -1,0 +1,49 @@
+.title-red{
+    color: red;
+}
+.title-green{
+    color: #2ea700;
+}
+.rate-legend-column{
+    display: flex;
+    flex-direction: row;
+}
+.rate-legend{
+    width: 100%;
+    min-height: 3vw;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #e6eae9;
+    padding: 4.93%;
+}
+.rate-legend-row{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.61%;
+    border-bottom: 1px solid #e6eae9;
+}
+.rate-legend-info{
+    display: flex;
+    flex-direction: row;
+    line-height: 10px;
+}
+.rate-legend-desc{
+    font-size: 8pt;
+    width: 100%;
+    text-align: justify;
+    text-indent: 3.22%;
+    font-style: italic;
+}
+.rate-legend-img{
+    width: 8%;
+}
+.rate-legend-img img{
+    width: 100%;
+    top: 0;
+}
+.rate-legend-name{
+    width: 80%;
+    font-size: 9pt;
+    line-height: 15px;
+    margin: auto;
+}
